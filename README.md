@@ -83,13 +83,13 @@ Worked on **IncomeLens**, a collaborative analytics platform designed to explore
 | 📈 **Blinkit Sales Analysis** | KPI dashboard and retail sales insights |
 | 🎵 **Music Store SQL Analysis** | Business case studies using advanced SQL |
 | 🪔 **Diwali Sales Analysis** | Exploratory data analysis with Python & Pandas |
-
+---
 ## 🏆 Certifications
 
 🏅 Infosys Springboard — Data Visualization Internship
 
 🏅 Accenture — Data Analytics & Visualization Job Simulation
-
+---
 ## 📬 Let's Connect
 
 <p>
