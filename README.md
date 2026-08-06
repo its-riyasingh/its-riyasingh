@@ -84,17 +84,13 @@ Worked on **IncomeLens**, a collaborative analytics platform designed to explore
 | 🎵 **Music Store SQL Analysis** | Business case studies using advanced SQL |
 | 🪔 **Diwali Sales Analysis** | Exploratory data analysis with Python & Pandas |
 
----
-
-# 🏆 Certifications
+## 🏆 Certifications
 
 🏅 Infosys Springboard — Data Visualization Internship
 
 🏅 Accenture — Data Analytics & Visualization Job Simulation
 
----
-
-# 📬 Let's Connect
+## 📬 Let's Connect
 
 <p>
 
@@ -108,5 +104,4 @@ Worked on **IncomeLens**, a collaborative analytics platform designed to explore
 
 </p>
 
----
 
