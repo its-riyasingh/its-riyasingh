@@ -29,7 +29,7 @@ Data Analytics • Business Intelligence • Excel | Python | SQL | Power BI
 </a>
 
 <a href="https://www.hackerrank.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<img src="https://img.shields.io/badge/HackerRank-16A34A?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 </p>
