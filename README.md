@@ -3,7 +3,7 @@
 <h2 align="center">Hi 👋, I'm Riya Singh</h2>
 
 <h3 align="center">
-Data Analytics • Business Intelligence
+Data Analytics • Business Intelligence | Excel | Python | SQL | Power BI
 </h3>
 
 <p align="center">
@@ -21,7 +21,7 @@ Data Analytics • Business Intelligence
 ---
 
 ## 👋 About Me
-🎓 Computer Science graduate- Building analytics solutions with SQL, Python, Power BI and Excel, backed by hands-on experience in dashboard development and data visualization.
+🎓 Computer Science graduate- Building analytics solutions with **SQL, Python, Power BI and Excel**, backed by hands-on experience in dashboard development and data visualization.
 
 🚀 My current work revolves around **Customer Analytics**, **Retail Analytics**, and dashboard development using real-world business datasets.
 
