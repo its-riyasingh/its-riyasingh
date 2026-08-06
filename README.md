@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 
-<h1 align="center">Hi 👋, I'm Riya Singh</h1>
+<h2 align="center">Hi 👋, I'm Riya Singh</h2>
 
 <h3 align="center">
 Data Analytics • Business Intelligence
@@ -33,19 +33,6 @@ Building analytics solutions with SQL, Python, Power BI and Excel, backed by han
 🚀 My current work revolves around **Customer Analytics**, **Retail Analytics**, and dashboard development using real-world business datasets.
 
 ---
-
-## 💼 Experience
-
-### 📊 Data Visualization Intern | Infosys Springboard                                                                          
-**Feb 2026 – Apr 2026**
-
-Worked on **IncomeLens**, a collaborative analytics platform designed to explore global income inequality through interactive dashboards and data visualization.
-
-- Developed Power BI dashboards to visualize key economic indicators such as **GDP per Capita**, **Gini Index**, and poverty metrics, making complex data easier to explore and interpret.
-- Prepared and transformed datasets, designed business-focused visualizations, and collaborated with the team to deliver an analytics platform that combined interactive reporting with meaningful insights. :contentReference[oaicite:0]{index=0}
-
----
-
 # 🛠 Analytics Toolkit
 
 ### Programming
@@ -65,6 +52,18 @@ Worked on **IncomeLens**, a collaborative analytics platform designed to explore
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 💼 Experience
+
+### 📊 Data Visualization Intern | Infosys Springboard                                                                          
+**Feb 2026 – Apr 2026**
+
+Worked on **IncomeLens**, a collaborative analytics platform designed to explore global income inequality through interactive dashboards and data visualization.
+
+- Developed Power BI dashboards to visualize key economic indicators such as **GDP per Capita**, **Gini Index**, and poverty metrics, making complex data easier to explore and interpret.
+- Prepared and transformed datasets, designed business-focused visualizations, and collaborated with the team to deliver an analytics platform that combined interactive reporting with meaningful insights. :contentReference[oaicite:0]{index=0}
 
 ---
 
