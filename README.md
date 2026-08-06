@@ -34,15 +34,13 @@ Data Analytics • Business Intelligence • Excel | Python | SQL | Power BI
 
 </p>
 
----
-
 ## 👋 About Me
-🎓 B.Tech Computer Science and Engineering graduate- Building analytics solutions with **SQL, Python, Power BI and Excel**, backed by hands-on experience in dashboard development and data visualization.
+🎓 B.Tech graduate in Computer Science & Engineering with hands-on experience in dashboard development, data visualization, and analytics projects using SQL, Python, Power BI, and Excel.
 
-🚀 My current work revolves around **Customer Analytics**, **Retail Analytics**, and dashboard development using real-world business datasets.
+🚀 Currently building projects in **Customer Analytics, Retail Analytics, and Business Intelligence** using real-world business datasets.
 
 ---
-# 🛠 Analytics Toolkit
+## ⚙️ Skills & Tools
 
 ### Programming
 ![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)  ![SQL](https://img.shields.io/badge/SQL-336791?style=plastic&logo=postgresql&logoColor=white)
@@ -112,8 +110,3 @@ Worked on **IncomeLens**, a collaborative analytics platform designed to explore
 
 ---
 
-<h3 align="center">
-
-⭐ Turning Data into Business Decisions ⭐
-
-</h3>
