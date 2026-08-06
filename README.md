@@ -26,11 +26,11 @@ Building analytics solutions with SQL, Python, Power BI and Excel, backed by han
 
 ## 👋 About Me
 
-- Data is more than numbers—it's a way to understand customers, identify opportunities, and support better decisions.
+📊 Curious about the story behind every dataset.
 
-- I'm a Computer Science graduate with a strong interest in Data Analytics and Business Intelligence. I enjoy working with real-world datasets, building interactive dashboards, and transforming complex data into actionable business insights using SQL, Python, Power BI, and Excel.
+🎓 Computer Science graduate with a growing focus on **Data Analytics** and **Business Intelligence**, building practical solutions using **SQL, Python, Excel, and Power BI**.
 
-- I'm currently building projects focused on customer analytics, retail analytics, and business intelligence while continuously strengthening my analytical and problem-solving skills.
+🚀 My current work revolves around **Customer Analytics**, **Retail Analytics**, and dashboard development using real-world business datasets.
 
 ---
 
@@ -49,22 +49,22 @@ Worked on **IncomeLens**, a collaborative analytics platform designed to explore
 # 🛠 Analytics Toolkit
 
 ### Programming
-![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)![SQL](https://img.shields.io/badge/SQL-336791?style=plastic&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)  ![SQL](https://img.shields.io/badge/SQL-336791?style=plastic&logo=postgresql&logoColor=white)
 
 ### Data Analysis
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
 
 ### Visualization
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=plastic&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=plastic&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black)  ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=plastic&logo=Matplotlib&logoColor=black)  ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=plastic&logo=plotly&logoColor=white)
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=plastic&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)  ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=plastic&logo=microsoftsqlserver&logoColor=white)
 
 ### Data Applications
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white)
 
 ---
 
