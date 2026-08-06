@@ -25,11 +25,7 @@ Building analytics solutions with SQL, Python, Power BI and Excel, backed by han
 ---
 
 ## 👋 About Me
-
-📊 Curious about the story behind every dataset.
-
-🎓 Computer Science graduate with a growing focus on **Data Analytics** and **Business Intelligence**, building practical solutions using **SQL, Python, Excel, and Power BI**.
-
+🎓 Computer Science graduate- Building analytics solutions with SQL, Python, Power BI and Excel, backed by hands-on experience in dashboard development and data visualization.
 🚀 My current work revolves around **Customer Analytics**, **Retail Analytics**, and dashboard development using real-world business datasets.
 
 ---
