@@ -3,7 +3,7 @@
 <h2 align="center">Hi 👋, I'm Riya Singh</h2>
 
 <h3 align="center">
-Data Analytics • Business Intelligence | Excel | Python | SQL | Power BI
+Data Analytics • Business Intelligence • Excel | Python | SQL | Power BI
 </h3>
 
 <p align="center">
