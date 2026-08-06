@@ -1,45 +1,203 @@
+<!-- ===================== HEADER ===================== -->
+
 <h1 align="center">Hi 👋, I'm Riya Singh</h1>
 
-<h3 align="center">Aspiring Data Analyst | SQL | Python | Power BI | Excel</h3>
+<h3 align="center">
+Data Analytics • Business Intelligence • SQL • Python • Power BI
+</h3>
+
+<p align="center">
+Transforming raw data into meaningful business insights through analytics, visualization, and storytelling.
+</p>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/its-riyasingh">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:riyasingh57814@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
-# 💫 About Me:
-🎓 Computer Science undergraduate passionate about transforming raw data into meaningful business insights.<br><br>📊 I enjoy solving real-world business problems through data cleaning, SQL analysis, interactive dashboards, and data visualization.<br><br>💡 Currently building end-to-end Data Analytics projects using real-world datasets while continuously improving my analytical and problem-solving skills.<br><br>🎯 Actively seeking Data Analyst opportunities where I can apply data-driven decision-making to solve business challenges.
 
+# 👩‍💻 About Me
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/its-riyasingh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riyasingh57814@gmail.com) 
+🎓 Final-year Computer Science student passionate about **Data Analytics** and **Business Intelligence**.
 
-# 💻 Tech Stack:
-### Languages
-- ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-  
+📊 I enjoy transforming raw datasets into interactive dashboards, actionable insights, and business recommendations.
+
+💼 Completed the **Infosys Springboard Data Visualization Internship**, where I worked on dashboards analyzing global income inequality using Power BI and economic indicators. :contentReference[oaicite:0]{index=0}
+
+🚀 Currently building an end-to-end portfolio of real-world analytics projects focused on SQL, Python, Excel, and Power BI.
+
+🎯 Actively seeking **Data Analyst** opportunities where I can solve business problems with data.
+
+---
+
+# 💼 Experience
+
+## 📊 Data Visualization Intern
+
+**Infosys Springboard**
+
+📅 Feb 2026 – Apr 2026
+
+✔ Built interactive Power BI dashboards
+
+✔ Cleaned and transformed datasets
+
+✔ Worked with GDP per Capita & Gini Index
+
+✔ Designed business-focused visualizations
+
+---
+
+# 🚀 Featured Projects
+
+## 🛒 Dunnhumby Customer Analytics *(In Progress)*
+
+> Customer Segmentation • Basket Analysis • Sales Insights • Power BI Dashboard
+
+---
+
+## 🌍 IncomeLens Dashboard
+
+> Global Income Inequality Analysis using Power BI
+
+---
+
+## 🛍 Blinkit Sales Analysis
+
+> Sales Dashboard • KPI Analysis • Business Insights
+
+---
+
+## 🎵 Music Store SQL Analysis
+
+> Advanced SQL • Window Functions • CTEs • Reporting
+
+---
+
+## 🪔 Diwali Sales Analysis
+
+> Python • Pandas • EDA • Visualization
+
+---
+
+# 🛠 Analytics Toolkit
+
+### Programming
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=plastic&logo=postgresql&logoColor=white)
+
+---
+
 ### Data Analysis
-- ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
-- ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
-  
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
+
+---
+
 ### Visualization
-- ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
-- ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
-- ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white)
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black)
+
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=plastic&logo=Matplotlib&logoColor=black)
+
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=plastic&logo=plotly&logoColor=white)
+
+---
 
 ### Databases
-- ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
-- ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
-  
-### Web Design
-- ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white)
-  
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=plastic&logo=microsoftsqlserver&logoColor=white)
+
+---
+
 ### Tools
--  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
--  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-  
-# 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=its-riyasingh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=its-riyasingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=its-riyasingh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Git](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white)
+
+---
+
+# 📚 Currently Learning
+
+📌 Advanced SQL
+
+📌 DAX
+
+📌 Power Query
+
+📌 Data Storytelling
+
+📌 Customer Analytics
+
+📌 Machine Learning for Analytics
+
+---
+
+# 🏆 Certifications
+
+🏅 Infosys Springboard — Data Visualization Internship
+
+🏅 Accenture — Data Analytics & Visualization Job Simulation
+
+🏅 Infosys Springboard — Software Engineering & Agile
+
+---
+
+# 📈 Current Focus
+
+✅ SQL Business Case Studies
+
+✅ Power BI Dashboards
+
+✅ Customer Analytics
+
+✅ Retail Analytics
+
+✅ Exploratory Data Analysis
+
+✅ Dashboard Design
+
+---
+
+# 📬 Let's Connect
+
+<p>
+
+<a href="mailto:riyasingh57814@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/its-riyasingh">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ Turning Data into Business Decisions ⭐
+
+</h3>
