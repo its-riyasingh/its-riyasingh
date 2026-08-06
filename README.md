@@ -1,3 +1,8 @@
+<h1 align="center">Hi 👋, I'm Riya Singh</h1>
+
+<h3 align="center">Aspiring Data Analyst | SQL | Python | Power BI | Excel</h3>
+
+---
 # 💫 About Me:
 🎓 Computer Science undergraduate passionate about transforming raw data into meaningful business insights.<br><br>📊 I enjoy solving real-world business problems through data cleaning, SQL analysis, interactive dashboards, and data visualization.<br><br>💡 Currently building end-to-end Data Analytics projects using real-world datasets while continuously improving my analytical and problem-solving skills.<br><br>🎯 Actively seeking Data Analyst opportunities where I can apply data-driven decision-making to solve business challenges.
 
