@@ -25,7 +25,7 @@ Data Analytics • Business Intelligence • Excel | Python | SQL | Power BI
 </a>
 
 <a href="https://medium.com/@YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Medium-4F46E5?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
 <a href="https://www.hackerrank.com/YOUR_USERNAME">
