@@ -36,7 +36,8 @@ Building analytics solutions with SQL, Python, Power BI and Excel, backed by han
 
 ## 💼 Experience
 
-### 📊 Data Visualization Intern | Infosys Springboard                                                                                 **Feb 2026 – Apr 2026**
+### 📊 Data Visualization Intern | Infosys Springboard                                                                          
+**Feb 2026 – Apr 2026**
 
 Worked on **IncomeLens**, a collaborative analytics platform designed to explore global income inequality through interactive dashboards and data visualization.
 
