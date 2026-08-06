@@ -7,10 +7,6 @@ Data Analytics • Business Intelligence
 </h3>
 
 <p align="center">
-Building analytics solutions with SQL, Python, Power BI and Excel, backed by hands-on experience in dashboard development and data visualization.
-</p>
-
-<p align="center">
 
 <a href="https://www.linkedin.com/in/its-riyasingh">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -26,6 +22,7 @@ Building analytics solutions with SQL, Python, Power BI and Excel, backed by han
 
 ## 👋 About Me
 🎓 Computer Science graduate- Building analytics solutions with SQL, Python, Power BI and Excel, backed by hands-on experience in dashboard development and data visualization.
+
 🚀 My current work revolves around **Customer Analytics**, **Retail Analytics**, and dashboard development using real-world business datasets.
 
 ---
