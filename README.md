@@ -16,7 +16,7 @@ Data Analytics • Business Intelligence • Excel | Python | SQL | Power BI
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_LINK">
+<a href="https://its-riyasingh.github.io/">
 <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
@@ -24,11 +24,11 @@ Data Analytics • Business Intelligence • Excel | Python | SQL | Power BI
 <img src="https://img.shields.io/badge/Resume-16A34A?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
-<a href="https://medium.com/@YOUR_USERNAME">
+<!-- <a href="https://medium.com/@YOUR_USERNAME">
 <img src="https://img.shields.io/badge/Medium-4F46E5?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
+</a> -->
 
-<a href="https://www.hackerrank.com/YOUR_USERNAME">
+<a href="https://www.hackerrank.com/profile/riyasingh67821">
 <img src="https://img.shields.io/badge/HackerRank-166534?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
