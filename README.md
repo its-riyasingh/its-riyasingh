@@ -72,18 +72,6 @@ Worked on **IncomeLens**, a collaborative analytics platform designed to explore
 - Developed Power BI dashboards to visualize key economic indicators such as **GDP per Capita**, **Gini Index**, and poverty metrics, making complex data easier to explore and interpret.
 - Prepared and transformed datasets, designed business-focused visualizations, and collaborated with the team to deliver an analytics platform that combined interactive reporting with meaningful insights. 
 
----
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🛒 **Dunnhumby Customer Analytics** *(In Progress)* | Customer segmentation, basket analysis, sales insights & Power BI dashboard |
-| 🌍 **IncomeLens Dashboard** | Global income inequality analytics using Power BI |
-| 📈 **Blinkit Sales Analysis** | KPI dashboard and retail sales insights |
-| 🎵 **Music Store SQL Analysis** | Business case studies using advanced SQL |
-| 🪔 **Diwali Sales Analysis** | Exploratory data analysis with Python & Pandas |
-
 ----
 ## 🏆 Certifications
 
