@@ -20,7 +20,7 @@ Data Analytics • Business Intelligence • Excel | Python | SQL | Power BI
 <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="YOUR_RESUME_LINK">
+<a href="https://drive.google.com/file/d/1od4-LQ-RLNtT22JQXkUpow91t2fxV91H/view?usp=drive_link" target="_blank">
 <img src="https://img.shields.io/badge/Resume-16A34A?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
