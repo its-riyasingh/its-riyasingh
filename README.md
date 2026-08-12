@@ -70,7 +70,7 @@ Data Analytics • Business Intelligence • Excel | Python | SQL | Power BI
 Worked on **IncomeLens**, a collaborative analytics platform designed to explore global income inequality through interactive dashboards and data visualization.
 
 - Developed Power BI dashboards to visualize key economic indicators such as **GDP per Capita**, **Gini Index**, and poverty metrics, making complex data easier to explore and interpret.
-- Prepared and transformed datasets, designed business-focused visualizations, and collaborated with the team to deliver an analytics platform that combined interactive reporting with meaningful insights. :contentReference[oaicite:0]{index=0}
+- Prepared and transformed datasets, designed business-focused visualizations, and collaborated with the team to deliver an analytics platform that combined interactive reporting with meaningful insights. 
 
 ---
 
